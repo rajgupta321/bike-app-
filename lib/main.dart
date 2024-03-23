@@ -296,7 +296,7 @@ class MyApp extends StatelessWidget {
                 },
               ),
               IconButton(
-                icon: Icon(Icons.settings),
+                icon: const Icon(Icons.settings),
                 onPressed: () {
                   // Add your onPressed action here
                 },
